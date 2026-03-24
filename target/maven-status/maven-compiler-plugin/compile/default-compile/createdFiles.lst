@@ -1,0 +1,6 @@
+com/example/demo/DemoApplication.class
+com/example/demo/config/SecurityConfig.class
+com/example/demo/model/Player.class
+com/example/demo/DataLoader.class
+com/example/demo/repo/PlayerRepository.class
+com/example/demo/controller/AuthController.class
